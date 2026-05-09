@@ -264,6 +264,8 @@ Deepak
 
 ---
 
-**Last Updated**: 2026
-**Node Version**: 18+
-**Status**: Active Development ✅
+## 📌 Project Info
+
+- **Last Updated**: 2026
+- **Node Version**: 20+
+- **Status**: Active Development ✅
